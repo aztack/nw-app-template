@@ -1,2 +1,1 @@
-# nw-app-template
-A NW.js App Template
+# A NW.js App Template
